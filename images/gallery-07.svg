@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs><pattern id="t" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0" fill="none" stroke="#33231a" stroke-width="2"/></pattern></defs>
+  <rect width="100%" height="100%" fill="#2b1d16"/><rect width="100%" height="100%" fill="url(#t)"/>
+  <rect x="24" y="24" width="1152" height="852" fill="none" stroke="#6b4a33" stroke-width="4" stroke-dasharray="16 12"/>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Georgia, serif" font-size="66" fill="#e2a95b">TODO: replace photo</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#d9c7a6">Bartender pouring</text>
+  <text x="50%" y="64%" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#d9c7a6">images/gallery-07.svg  (1200 × 900)</text>
+</svg>
